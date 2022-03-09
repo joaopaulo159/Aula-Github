@@ -1,0 +1,53 @@
+37  cd aula6
+   38  git clone git@github.com:MarcusRibeiro1/Marcus_Ribeiro.git
+   39  git clone https://github.com/MarcusRibeiro1/Marcus_Ribeiro.git
+   40  mkdir Git_e_Git_JOAO_BARREIRA
+   41  cd Git_e_Git_JOAO_BARREIRA/
+   42  touch Historia_Github_JOAO_BARREIRA.py
+   43  cd..
+   44  cd ..
+   45  git add .
+   46  git init
+   47  git add .
+   48  git -rm .git/
+   49  git rm -rf .git/
+   50  rm -rf .git/
+   51  git status
+   52  git add.
+   53  git add
+   54  git add .
+   55  pwd
+   56  git ls -a
+   57  ls -a
+   58  rm -rf Git_e_Git_JOAO_BARREIRA/
+   59  ls -a
+   60  cd Marcus_Ribeiro/
+   61  mkdir Git_e_Git_JOAO_BARREIRA
+   62  touch Historia_Github_JOAO_BARREIRA.py
+   63  git add .
+   64  git status
+   65  git commit -m "Adicionando meu Arquivo JOAO BARREIRA"
+   66  git push origin main
+   67  git push origin main
+   68  ls -a
+   69  rm -rf Historia_Github_JOAO_BARREIRA.py
+   70  cd Git_e_Git_JOAO_BARREIRA/
+   71  touch Historia_Github_JOAO_BARREIRA.py
+   72  cd ..
+   73  git add .
+   74  git commit -m "Corrigindo meu Arquivo JOAO BARREIRA"
+   75  git status
+   76  git push origin main
+   77  cd ..
+   78  mkdir MR_Aula 6
+   79  cd MR_Aula/
+   80  ls -a
+   81  cd ..
+   82  ls -a
+   83  git clone https://github.com/joaopaulo159/Aula-Github.git~
+   84  git clone https://github.com/joaopaulo159/Aula-Github.git
+   85  ls -a
+   86  cd Aula-Github/
+   87  git clone https://github.com/MarcusRibeiro1/Marcus_Ribeiro.git~
+   88  git clone https://github.com/MarcusRibeiro1/Marcus_Ribeiro.git
+   89  history
